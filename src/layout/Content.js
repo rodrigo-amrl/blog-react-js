@@ -1,5 +1,5 @@
 
-import ItemList from './ItemList';
+import ItemList from '../list/ItemList';
 const Content = ({ items, setItems, handleCheck, handleDelete }) => {
     return (
         <main>
